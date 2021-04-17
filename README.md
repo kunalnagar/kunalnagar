@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi. I'm Kunal (he/him) 👋
+
+➡️ I work as a Senior Frontend Developer at [CircleCI](https://circleci.com/) where we help automate the software delivery pipeline so developers can ship quality applications more efficiently.
+
+Most recently, I worked at [HomeX](http://homex.com/), that allows users to seamlessly schedule home service appointments.
+
+Before that, I was at [ScaleGrid](http://scalegrid.io/), enabling users to manage their database clusters by creating dashboards and monitoring solutions.
+
+---
+
+Use JavaScript responsibly. Make the web faster, and a little [whimsical](https://www.kunalnagar.in/404).
 
 <!--
 **kunalnagar/kunalnagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
